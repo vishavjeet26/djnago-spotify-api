@@ -1,0 +1,11 @@
+env
+env/
+spotifyproject/__pycache__
+spotifyproject/__pycache__/
+spotifyapp/__pycache__
+spotifyapp/__pycache__/
+authenticationapp/__pycache__
+authenticationapp/__pycache__/
+spotifyapp/migrations/__pycache__
+spotifyapp/migrations/__pycache__/
+
