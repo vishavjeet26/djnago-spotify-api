@@ -30,13 +30,13 @@ http://127.0.0.1:8000/api/v1/album/4
 http://127.0.0.1:8000/api/v1/realese-date
 ### Some Screenshot attached:
 
-<img src="screenshoot/1.png" alt="Integrate SPOTIFY API FASTAPI">
+<img src="screenshot/1.png" alt="Integrate SPOTIFY API FASTAPI">
 <br><br>
-<img src="screenshoot/2.png" alt="Integrate SPOTIFY API FASTAPI">
+<img src="screenshot/2.png" alt="Integrate SPOTIFY API FASTAPI">
 <br><br>
-<img src="screenshoot/3.png" alt="Integrate SPOTIFY API FASTAPI">
+<img src="screenshot/3.png" alt="Integrate SPOTIFY API FASTAPI">
 <br><br>
-<img src="screenshoot/4.png" alt="Integrate SPOTIFY API FASTAPI">
+<img src="screenshot/4.png" alt="Integrate SPOTIFY API FASTAPI">
 
 
 
